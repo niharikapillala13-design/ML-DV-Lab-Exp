@@ -1,0 +1,13 @@
+Order Date,Category,Region,Sales,Profit,Quantity
+2026-01-05,Technology,East,1200,240,2
+2026-01-12,Furniture,West,850,110,3
+2026-02-03,Office Supplies,South,430,80,10
+2026-02-19,Technology,East,1500,330,2
+2026-03-02,Furniture,West,970,150,4
+2026-03-15,Office Supplies,South,510,95,12
+2026-04-04,Technology,East,1800,410,3
+2026-04-21,Furniture,West,1100,190,5
+2026-05-08,Office Supplies,South,620,125,15
+2026-05-20,Technology,East,2100,500,4
+2026-06-11,Furniture,West,1300,230,6
+2026-06-25,Office Supplies,South,700,140,18

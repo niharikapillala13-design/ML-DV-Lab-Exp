@@ -1,3 +1,5 @@
-# Data Visualization Lab Assignments
+# Reports Reference
 
-This folder contains Data Visualization assignments using Power BI and Tableau.
+Place exported report images or HTML reports here after creating them.
+
+This folder is a reference/organization folder; it is not a generated Power BI report or semantic model.
